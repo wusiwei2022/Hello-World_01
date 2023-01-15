@@ -1,5 +1,8 @@
 hello world!
 
-question 1: how to merge a branch local 
-question 2: how to push a branch directly to the remote repository
-question 3: how to merge a branch to a remote repository
+question 1: how to merge a branch local?
+question 2: how to push a branch directly to the remote repository?
+question 3: how to merge a branch to a remote repository?
+question 4: how to do version control in R studio?
+
+
